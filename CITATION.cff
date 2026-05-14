@@ -1,0 +1,89 @@
+cff-version: 1.2.0
+title: >-
+  MedQA-KR/EN: A Physician-Validated Bilingual Question-Answering Dataset for
+  Medical Licensing Examination Education across 17 Clinical Specialties
+message: >-
+  If you use this dataset, please cite the accompanying Data Descriptor as
+  shown below.
+type: dataset
+authors:
+  - family-names: Kim
+    given-names: Tong Min
+    affiliation: >-
+      Department of Medical Informatics, College of Medicine,
+      The Catholic University of Korea
+  - family-names: Kim
+    given-names: Chansik
+    affiliation: The Catholic University of Korea
+  - family-names: Lee
+    given-names: Youngrong
+    email: lyr6830@yuhs.ac
+  - family-names: Yang
+    given-names: Kwangmo
+    affiliation: Samsung Medical Center
+  - family-names: Lee
+    given-names: Yohan
+    affiliation: Seoul National University Boramae Hospital
+  - family-names: Lee
+    given-names: Hyung-Chul
+    affiliation: Seoul National University Hospital
+  - family-names: Kim
+    given-names: Byung-Hoon
+    affiliation: Yonsei University College of Medicine
+  - family-names: Kim
+    given-names: Taehun
+    affiliation: Seoul National University
+  - family-names: Kim
+    given-names: Huichung
+    affiliation: PHI Digital Healthcare Inc.
+  - family-names: Hwang
+    given-names: Injin
+    affiliation: Crowdworks Inc.
+  - family-names: Park
+    given-names: Jungchan
+    affiliation: Samsung Medical Center
+  - family-names: Kim
+    given-names: Taeyoung
+    affiliation: Samsung Medical Center
+  - family-names: Lee
+    given-names: Hyeonhoon
+    affiliation: Seoul National University Hospital
+  - family-names: Lee
+    given-names: Yushin
+    affiliation: Seoul National University Hospital Venture
+  - family-names: Park
+    given-names: Jinseok
+    affiliation: PHI Digital Healthcare
+  - family-names: Kim
+    given-names: Sung Hyun
+    affiliation: National Information Society Agency
+  - family-names: Ko
+    given-names: Taehoon
+    email: thko@catholic.ac.kr
+    affiliation: >-
+      Department of Medical Informatics, College of Medicine,
+      The Catholic University of Korea
+    orcid: 'https://orcid.org/0000-0000-0000-0000'  # replace with actual ORCID
+repository-code: 'https://github.com/<your-org>/MedQA-KR-EN'
+url: 'https://www.aihub.or.kr/aihubdata/data/view.do?dataSetSn=71874'
+abstract: >-
+  MedQA-KR/EN is a bilingual (Korean–English) question-answering dataset
+  comprising 33,379 examination-style items spanning 17 clinical specialties
+  aligned with the Korean Medical Licensing Examination subject taxonomy. The
+  dataset combines 3,380 physician-authored items with 29,999 synthetically
+  generated items, all validated by 30 licensed physicians with documented
+  inter-rater reliability. It supports three question formats (multiple-choice,
+  short answer, long answer) and is released under the Creative Commons CC0
+  1.0 Universal Public Domain Dedication.
+keywords:
+  - medical question answering
+  - medical education
+  - standardized medical assessment
+  - Korean Medical Licensing Examination
+  - USMLE
+  - bilingual dataset
+  - large language models
+  - medical AI
+license: CC0-1.0
+version: '1.0'
+date-released: '2025-09-03'

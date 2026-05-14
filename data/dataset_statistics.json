@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "release_date": "2025-09",
+  "total_items": 33379,
+  "languages": [
+    "ko",
+    "en"
+  ],
+  "items_per_language": 33379,
+  "format_distribution": {
+    "multiple_choice": 26355,
+    "short_answer": 3444,
+    "long_answer": 3580
+  },
+  "specialty_distribution": {
+    "General Surgery": 3659,
+    "Preventive Medicine": 734,
+    "Psychiatry": 1969,
+    "Neurology/Neurosurgery": 2134,
+    "Dermatology": 695,
+    "Ophthalmology": 740,
+    "Otorhinolaryngology": 532,
+    "Urology": 931,
+    "Radiation Oncology": 108,
+    "Pathology": 145,
+    "Anesthesiology and Pain Medicine": 837,
+    "Medical Law": 30,
+    "Miscellaneous": 2239,
+    "Obstetrics and Gynecology": 2438,
+    "Pediatrics": 3018,
+    "Emergency Medicine": 677,
+    "Internal Medicine": 12493
+  },
+  "specialty_codes": {
+    "1": "General Surgery",
+    "2": "Preventive Medicine",
+    "3": "Psychiatry",
+    "4": "Neurology/Neurosurgery",
+    "5": "Dermatology",
+    "6": "Ophthalmology",
+    "7": "Otorhinolaryngology",
+    "8": "Urology",
+    "9": "Radiation Oncology",
+    "10": "Pathology",
+    "11": "Anesthesiology and Pain Medicine",
+    "12": "Medical Law",
+    "13": "Miscellaneous",
+    "14": "Obstetrics and Gynecology",
+    "15": "Pediatrics",
+    "16": "Emergency Medicine",
+    "17": "Internal Medicine"
+  },
+  "format_codes": {
+    "1": "multiple_choice",
+    "2": "short_answer",
+    "3": "long_answer"
+  }
+}
